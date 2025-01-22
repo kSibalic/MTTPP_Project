@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 
-namespace ruapProject
+namespace MTTPP_Project
 {
     [TestFixture]
     public class CheckIfVATIsIncludedInPriceTest : BaseTest

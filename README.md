@@ -33,8 +33,8 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kSibalic/ruapProject
-   cd ruapProject/
+   git clone https://github.com/kSibalic/MTTPP_Project
+   cd MTTPP_Project/
    ```
 
 2. **Install NuGet Packages**
@@ -54,7 +54,7 @@ Follow these steps to set up the project:
 
     Alternatively, run the tests using the **Command Line**:
     ```bash
-    cd ruapProject/
+    cd MTTPP_Project/
     dotnet test
     ```  
 

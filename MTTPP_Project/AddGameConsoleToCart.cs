@@ -2,7 +2,7 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace ruapProject
+namespace MTTPP_Project
 {
     [TestFixture]
     public class AddGameConsoleToCartTest : BaseTest

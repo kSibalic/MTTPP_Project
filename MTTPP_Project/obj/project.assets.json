@@ -1088,11 +1088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karlosibalic/Desktop/TestProject1/ruapProject/ruapProject.csproj",
-      "projectName": "ruapProject",
-      "projectPath": "/Users/karlosibalic/Desktop/TestProject1/ruapProject/ruapProject.csproj",
+      "projectUniqueName": "/Users/karlosibalic/Desktop/TestProject1/MTTPP_Project/MTTPP_Project.csproj",
+      "projectName": "MTTPP_Project",
+      "projectPath": "/Users/karlosibalic/Desktop/TestProject1/MTTPP_Project/MTTPP_Project.csproj",
       "packagesPath": "/Users/karlosibalic/.nuget/packages/",
-      "outputPath": "/Users/karlosibalic/Desktop/TestProject1/ruapProject/obj/",
+      "outputPath": "/Users/karlosibalic/Desktop/TestProject1/MTTPP_Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karlosibalic/.nuget/NuGet/NuGet.Config"

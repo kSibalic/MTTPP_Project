@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vRtE5COPrZo=",
+  "dgSpecHash": "HS7mENEk0Tg=",
   "success": true,
-  "projectFilePath": "/Users/karlosibalic/Desktop/TestProject1/ruapProject/ruapProject.csproj",
+  "projectFilePath": "/Users/karlosibalic/Desktop/TestProject1/MTTPP_Project/MTTPP_Project.csproj",
   "expectedPackageFiles": [
     "/Users/karlosibalic/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/karlosibalic/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace ruapProject
+namespace MTTPP_Project
 {
     [TestFixture]
     public class YouTubeLinkTest : BaseTest
