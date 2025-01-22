@@ -1,4 +1,4 @@
-# RUAP Project - Selenium WebDriver C# Automation Project
+# MTTPP Project - Selenium WebDriver C# Automation Project
 
 ## Project Overview
 
