@@ -102,3 +102,4 @@
 /Users/karlosibalic/Desktop/TestProject1/ruapProject/obj/Debug/net8.0/ruapProject.genruntimeconfig.cache
 /Users/karlosibalic/Desktop/TestProject1/ruapProject/obj/Debug/net8.0/ref/ruapProject.dll
 /Users/karlosibalic/Desktop/TestProject1/ruapProject/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
+/Users/karlosibalic/Desktop/TestProject1/ruapProject/obj/Debug/net8.0/ruapProject.sourcelink.json

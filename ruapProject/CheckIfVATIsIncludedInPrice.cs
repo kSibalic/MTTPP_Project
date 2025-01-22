@@ -20,8 +20,6 @@ namespace ruapProject
             driver.FindElement(By.XPath("//main[@id='main']/div[4]/div/div/a[10]/div[2]/span")).Click();
             driver.FindElement(By.XPath("//main[@id='main']/div[2]/div/a[3]/div[2]/span")).Click();
             driver.FindElement(By.XPath("//div[@id='17167']/div/a[2]/div/div/span[2]")).Click();
-            driver.FindElement(By.XPath("//main[@id='main']/div/div/div/div/div[3]/div/div/div[3]/form/div/div/select")).Click();
-            new SelectElement(driver.FindElement(By.XPath("//main[@id='main']/div/div/div/div/div[3]/div/div/div[3]/form/div/div/select"))).SelectByText("2");
             driver.FindElement(By.XPath("//button[@type='submit']")).Click();
             driver.Navigate().GoToUrl("https://www.thomann.de/intl/basket.html?addedMessage=Item%20Shure%20SM%207%20B%20is%20now%20in%20the%20shopping%20basket.&addedStatus=success&gtmArticleQuantity=2&gtmArticleNumber=129929");
             driver.Navigate().GoToUrl("https://www.thomann.de/intl/basket.html");

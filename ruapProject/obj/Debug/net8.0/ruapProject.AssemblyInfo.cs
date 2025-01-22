@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ruapProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3da951807424f698969a3191840abc3cd6751bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ruapProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ruapProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

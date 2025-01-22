@@ -19,9 +19,15 @@ namespace ruapProject
         public void SetupTest()
         {
             var options = new ChromeOptions();
-            //options.AddArgument("--headless");
-            //options.AddArgument("--disable-gpu");
-            //options.AddArgument("--window-size=1920,1080");
+            options.AddArgument("start-maximized");
+            /*
+             options.AddArgument("--headless");
+             options.AddArgument("--disable-gpu");
+             options.AddArgument("--window-size=1920,1080");
+             
+             Some test may be run as headless (browser doesn't open) but since website requires to
+             either accept or reject cookies we need to start it this way.
+            */
             options.AddUserProfilePreference("profile.default_content_settings.cookies", 2);
             
             driver = new ChromeDriver(options);
